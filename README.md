@@ -1,9 +1,5 @@
 # SP Woocommerce Outfits
 
-Contributors: michaelwilhelmsen
-
-Tags: woocommerce, outfits, e-commerce
-
 SP Woocommerce Outfits allows you to create outfits linked to your WooCommerce products
 
 ## Description
