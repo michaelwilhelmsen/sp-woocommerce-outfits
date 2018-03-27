@@ -2,7 +2,7 @@
 
 SP Woocommerce Outfits allows you to create outfits linked to your WooCommerce products.
 
-Current version is under development and will not yet work.
+Current version (0.1) is under development and **will not work**.
 
 ## Description
 This plugin was created to allow shoppers to simplify their browsing experience.
